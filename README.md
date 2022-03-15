@@ -1,2 +1,3 @@
 # Movie-Suggestion
-Provides movie suggestions with rating based on movie title of interest
+
+This python code uses Tastedive and OMDB APIs to provide movie recommendations with Rotten Tomatoes ratings
